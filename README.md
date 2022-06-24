@@ -6,11 +6,11 @@ Information Technoloy Specialist
 
 Information Technology Professional with experience and education in research, software development, and management information systems. An ambitious and goal-oriented individual always seeking to improve on the foundations of their knowledge and build on industry experience. 
 
-**I began studying IT and related subjects in the 10th grade and am now completing a Ph.D. in Information Technology at the age of 19.**
+**I began studying IT and related subjects in the 10th grade and am now pursuing a Ph.D. in Information Technology at the age of 19.**
 
 * 🌍  I'm based in Eden Prairie, Minnesota
 * ✉️  You can contact me at [talishkumar@gmail.com](mailto:talishkumar@gmail.com)
-* 🚀  I'm currently working on [Completing my Ph.D. in Information Technology](http://www.linkedin.com/in/talish-kumar/details/education/)
+* 🚀  I'm currently working on [my Ph.D. in Information Technology](http://www.linkedin.com/in/talish-kumar/details/education/)
 * 🧠  I'm learning Full-Stack Java Development
 * 🤝  I'm open to collaborating on Projects related to Java Fullstack & C++
 
