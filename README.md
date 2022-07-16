@@ -12,7 +12,7 @@ Information Technology Professional with experience and education in research, s
 * ✉️  You can contact me at [talishkumar@gmail.com](mailto:talishkumar@gmail.com)
 * 🚀  I'm currently working on [my Ph.D. in Information Technology](http://www.linkedin.com/in/talish-kumar/details/education/)
 * 🧠  I'm learning Full-Stack .NET Development
-* 🤝  I'm open to collaborating on Projects related to .NET or Java Fullstack & C++
+* 🤝  I'm open to collaborating on Projects related to .NET or Java Fullstack & C/C++
 
 ### Skills
 
