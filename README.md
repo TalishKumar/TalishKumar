@@ -11,8 +11,8 @@ Information Technology Professional with experience and education in research, s
 * 🌍  I'm based in Eden Prairie, Minnesota
 * ✉️  You can contact me at [talishkumar@gmail.com](mailto:talishkumar@gmail.com)
 * 🚀  I'm currently working on [my Ph.D. in Information Technology](http://www.linkedin.com/in/talish-kumar/details/education/)
-* 🧠  I'm learning Full-Stack Java Development
-* 🤝  I'm open to collaborating on Projects related to Java Fullstack & C++
+* 🧠  I'm learning Full-Stack .NET Development
+* 🤝  I'm open to collaborating on Projects related to .NET or Java Fullstack & C++
 
 ### Skills
 
