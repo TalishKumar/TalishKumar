@@ -1,17 +1,17 @@
 Hi 👋 My name is Talish Kumar
 =============================
 
-Information Technoloy Specialist
+Software Engineer, Team Lead
 --------------------------------
 
-Information Technology Professional with experience and education in research, software development, and management information systems. An ambitious and goal-oriented individual always seeking to improve on the foundations of their knowledge and build on industry experience. 
+Software Engineer, Team Lead with experience and education in software development, management information systems, and information technology. An ambitious and goal-oriented individual always seeking to improve on the foundations of their knowledge and build on industry experience. 
 
-**I began studying IT and related subjects in the 10th grade and am now pursuing a Ph.D. in Information Technology at the age of 19.**
+**I began studying IT and related subjects in the 10th grade and am now pursuing a Ph.D. in Information Technology**
 
 * 🌍  I'm based in Eden Prairie, Minnesota
 * ✉️  You can contact me at [talishkumar@gmail.com](mailto:talishkumar@gmail.com)
 * 🚀  I'm currently working on [my Ph.D. in Information Technology](http://www.linkedin.com/in/talish-kumar/details/education/)
-* 🧠  I'm learning Full-Stack .NET Development
+* 🧠  I'm learning more about Data Structures & Algorithms
 * 🤝  I'm open to collaborating on Projects related to .NET or Java Fullstack & C/C++
 
 ### Skills
