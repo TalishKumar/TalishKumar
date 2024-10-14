@@ -1,7 +1,7 @@
 Hi 👋 My name is Talish Kumar
 =============================
 
-Software Engineer, Team Lead
+Engineering Manager
 --------------------------------
 
 Software Engineer, Team Lead with experience and education in software development, management information systems, and information technology. An ambitious and goal-oriented individual always seeking to improve on the foundations of their knowledge and build on industry experience. 
